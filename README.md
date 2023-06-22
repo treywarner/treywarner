@@ -1,5 +1,7 @@
 ### Hi there 👋
 I'm a student at Bexley High School.
+
+looking to make a homestay web app with heroku and sinatra
 <!--
 **treywarner/treywarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
